@@ -1,0 +1,77 @@
+[
+  {
+      "id": 1,
+      "title": "Telefones",
+      "description": "Instalação/Manutenção de sistemas de telefone"
+  },
+  {
+      "id": 2,
+      "title": "Redes",
+      "description": "Instalação/Munutenção de sistemas de redes de dados"
+  },
+  {
+      "id": 3,
+      "title": "Segurança Eletrôncia",
+      "description": "Instalação/Manutenção de sistemas de segurança eletrônica"
+  },
+  {
+      "id": 4,
+      "title": "Equipamentos de Comunicação",
+      "description": "Instalação/Manutenção de equipamentos, como roteadores, modems e switches"
+  },
+  {
+      "id": 5,
+      "title": "Ar-condicionado",
+      "description": "Instalação/Manutenção de ar-condicionado"
+  },
+  {
+      "id": 6,
+      "title": "Energia Solar",
+      "description": "Instalação/Manutenção de sistemas de energia solar"
+  },
+  {
+      "id": 7,
+      "title": "Troca de Fiação",
+      "description": "Troca de fiação elétrica e quadros de distribuição"
+  },
+  {
+      "id": 8,
+      "title": "Geradores Elétricos",
+      "description": "Instalação/Manutenção de geradores elétricos"
+  },
+  {
+      "id": 9,
+      "title": "Segurança Elétrica",
+      "description": "Instalação/Manutenção de sistemas de segurança elétrica"
+  },
+  {
+      "id": 10,
+      "title": "Sistemas Elétricos",
+      "description": "Instalação/Manutenção de sistema elétricos"
+  },
+  {
+      "id": 11,
+      "title": "Troca de Borrachas",
+      "description": "Troca de borrachas de vedação em geladeiras e freezers"
+  },
+  {
+      "id": 12,
+      "title": "Troca de Termostatos e Sensores",
+      "description": "Troca de termostatos e sensores de temperatura em geladeiras e freezers"
+  },
+  {
+      "id": 13,
+      "title": "Substituição de Compressor",
+      "description": "Substituição de compressores em refrigeradores e freezer"
+  },
+  {
+      "id": 14,
+      "title": "Troca de Correias",
+      "description": "Troca de correias da máquina de lavar roupa"
+  },
+  {
+      "id": 15,
+      "title": "Troca de Peças e componentes",
+      "description": "Troca de peças e componentes em geral da máquina de lavar roupa."
+  }
+]
