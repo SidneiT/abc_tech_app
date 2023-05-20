@@ -24,7 +24,7 @@ class HomePage extends GetView<AssistanceController> {
           child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
-                Row(children: const [
+                const Row(children: [
                   Expanded(
                       child: Text("Os serviços disponíveis são:",
                           textAlign: TextAlign.center))
