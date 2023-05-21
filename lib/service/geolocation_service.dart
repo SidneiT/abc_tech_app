@@ -10,7 +10,7 @@ abstract class GeolocationServiceInterface {
   Future<bool> start();
 }
 
-class GeoloctionService implements GeolocationServiceInterface {
+class GeolocationService implements GeolocationServiceInterface {
   bool _serviceEnabled = false;
   late LocationPermission _permission;
 
@@ -27,7 +27,7 @@ class GeoloctionService implements GeolocationServiceInterface {
 
   @override
   Future<void> _requestPermissions() async {
-    _permission = await Geolocator.checkPermission();
+    _permission = await Geolocator.requestPermission();
     if (isPermissionEnabled()) {
       return Future.error("Permisson denied");
     }
