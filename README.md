@@ -1,6 +1,6 @@
 # abc_tech_app
 
-A new Flutter project.
+Projeto em Flutter para entrega da Fase 3 do MBA em Engenharia de Software na FIAP
 
 ## Getting Started
 
