@@ -1,4 +1,4 @@
-# abc_tech_app
+# ABC TECH APP
 
 Projeto em Flutter para entrega da Fase 3 do MBA em Engenharia de Software na FIAP
 
